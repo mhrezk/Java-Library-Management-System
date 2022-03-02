@@ -2,6 +2,12 @@
 
 Repository: [Java Library Management](https://github.com/mhrezk/Java-Library-Management-System)
 
+## 1.1.1 (02-03-2022)
+
+### Changed
+
+* Changed title of project
+
 ## 1.1.0 (02-03-2022)
 
 ### Added
@@ -12,4 +18,4 @@ Repository: [Java Library Management](https://github.com/mhrezk/Java-Library-Man
 
 ### Added
 
-* Created `CHANGELOG.md` file
+* Created `CHANGELOG.md` and `version.yaml` files

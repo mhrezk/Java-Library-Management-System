@@ -1,4 +1,4 @@
-# Java Library Managemental System
+# Java Library System
 
 ## Description
 
