@@ -1,0 +1,6 @@
+c 9781632361868 ATTACK+ON+TITAN   Hajime+Isayama 12.5 5 Fiction Comic
+f 9781982173616 BILLY+SUMMERS  Stephen+King" 30.95 6 Fiction Fantasy
+b 9781529002782  ALL+MY+MOTHER'S+SECRETS Beezy+Marsh 40.43 6 Non-Fiction Biography
+s 9781524858148 Jessica+Roux Jessica+Roux 5.56 13 Non-Fiction Science
+h 9780316418539 HUMANKIND:+A+HOPEFUL+HISTORY Rutger+Bregman 20.1 25 Non-Fiction HISTORY
+c 9781967432109 Batman+Beyond DC+Comics 39.43 19 Fiction Comic
