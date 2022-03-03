@@ -36,6 +36,10 @@ A repository designed, in Java, to simulate a system within a bookstore. The sys
 - [x] `Staff.java`
 - [x] `Member.java`
 
-## TEXT FILE
+### TEXT FILE
 
 - [x] `Books.txt`: A list of books to be entered into the database from a file
+
+## Usage
+
+The repository is openly available to whomever wishes to clone and improve upon it. I would kindly ask if you could submit pull requests for your improvements so that everyone can access such enhancements.
