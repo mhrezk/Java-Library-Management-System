@@ -16,6 +16,6 @@ Repository: [Java Library Management](https://github.com/mhrezk/Java-Library-Man
 
 ## 1.0.0 (02-03-2022)
 
-### Added
+### Created
 
 * Created `CHANGELOG.md` and `version.yaml` files
